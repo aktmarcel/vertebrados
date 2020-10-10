@@ -1,0 +1,23 @@
+Relatório
+
+Aluno: Brunno Marcel
+Numero de tentativas erradas na fase 3 dos Peixes: 0
+Numero de tentativas erradas na fase 3 dos Anfibios: 0
+Numero de tentativas erradas na fase 3 dos Répteis: 0
+Numero de tentativas erradas na fase 3 das Aves: 0
+Numero de tentativas erradas na fase 3 dos Mamíferos: 0
+--------------------------------
+Aluno: Lucas Franciso
+Numero de tentativas erradas na fase 3 dos Peixes: 0
+Numero de tentativas erradas na fase 3 dos Anfibios: 0
+Numero de tentativas erradas na fase 3 dos Répteis: 0
+Numero de tentativas erradas na fase 3 das Aves: 0
+Numero de tentativas erradas na fase 3 dos Mamíferos: 3
+--------------------------------
+Aluno: Gabriel P
+Numero de tentativas erradas na fase 3 dos Peixes: 0
+Numero de tentativas erradas na fase 3 dos Anfibios: 0
+Numero de tentativas erradas na fase 3 dos Répteis: 0
+Numero de tentativas erradas na fase 3 das Aves: 0
+Numero de tentativas erradas na fase 3 dos Mamíferos: 9
+--------------------------------

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Errado
+  - Sombra1
+  - Correto1
+  - Sombra2
+  - Correto2
+  - Sombra3
+  - Correto3
+  - Sombra4
+  - Correto4
+  - Sombra5
+  - Correto5
+  - LugarCorreto
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer2
+    uniqueID: 3794398585
+    locked: 0
+  - name: New Layer
+    uniqueID: 307936287
+    locked: 0
